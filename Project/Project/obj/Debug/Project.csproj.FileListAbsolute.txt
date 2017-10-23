@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.dll
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.pdb
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.Project.apk
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.Project-Signed.apk
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.dll
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.pdb
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\android\bin\Project.Project.apk
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\layout\main.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\values\strings.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\R.cs.flag
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\uploadflags.txt

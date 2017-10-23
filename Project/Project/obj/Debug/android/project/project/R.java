@@ -11,11 +11,11 @@ public final class R {
     public static final class attr {
     }
     public static final class id {
-        public static final int editText1=0x7f040002;
-        public static final int editText2=0x7f040004;
-        public static final int textView1=0x7f040000;
-        public static final int textView2=0x7f040001;
-        public static final int textView3=0x7f040003;
+        public static final int btnSignIn=0x7f040001;
+        public static final int btnSignUp=0x7f040003;
+        public static final int progressBar1=0x7f040004;
+        public static final int txtCreateAccount=0x7f040000;
+        public static final int txtOr=0x7f040002;
     }
     public static final class layout {
         public static final int main=0x7f020000;
