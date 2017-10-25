@@ -1,4 +1,3 @@
-C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.pdb
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.Project.apk
@@ -7,7 +6,19 @@ C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\P
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.pdb
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\android\bin\Project.Project.apk
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\layout\dialog_sign_up.xml
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\layout\main.xml
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\values\strings.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\drawable\icon.png
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\drawable\mail.png
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\anim\slideright.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\anim\slideup.xml
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\values\styles.xml
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\R.cs.flag
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\uploadflags.txt
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.dll.mdb
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\android\assets\Project.dll.mdb
