@@ -10,6 +10,7 @@ namespace Project
     [Activity(Label = "LoginSystem", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
+        
         private Button btnSignUp;
         private Button btnSignIn;
         private ProgressBar progressBar;
@@ -42,6 +43,7 @@ namespace Project
 
                 signInDialog.OnSignInComplete += SignInDialog_OnSignInComplete;
             };
+            CreateDB();
         }
 
         private void SignUpDialog_OnSignUpComplete(object sender, OnSignUpEventArgs e)
@@ -60,6 +62,15 @@ namespace Project
             string email = e.Email;
         }
 
+        public string CreateDB()
+        {
+            var output = "";
+            output += "Creating Databse if it doesnt exists";
+            string dpPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "user.db3"); //Create New Database  
+            var db = new SQLiteConnection(dpPath);
+            output += "\n Database Created....";
+            return output;
+        }
     }
 }
 
