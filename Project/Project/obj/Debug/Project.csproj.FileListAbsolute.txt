@@ -22,3 +22,5 @@ C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\R
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\uploadflags.txt
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\bin\Debug\Project.dll.mdb
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\android\assets\Project.dll.mdb
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\Project\Project\obj\Debug\res\layout\dialog_sign_in.xml
