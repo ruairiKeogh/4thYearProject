@@ -1,0 +1,12 @@
+Project.DialogSignIn, Project;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignIn
+Project.DialogSignIn, Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignIn
+Project.DialogSignIn;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignIn
+project.DialogSignIn;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignIn
+Project.DialogSignUp, Project;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignUp
+Project.DialogSignUp, Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignUp
+Project.DialogSignUp;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignUp
+project.DialogSignUp;md58a8d1f160ebfe1bfc6c49b1c426b087c.DialogSignUp
+Project.MainActivity, Project;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity
+Project.MainActivity, Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity
+Project.MainActivity;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity
+project.MainActivity;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity

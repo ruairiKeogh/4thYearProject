@@ -66,9 +66,9 @@ namespace Project
         {
             var output = "";
             output += "Creating Databse if it doesnt exists";
-            string dpPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "user.db3"); //Create New Database  
+            /*string dpPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "user.db3"); //Create New Database  
             var db = new SQLiteConnection(dpPath);
-            output += "\n Database Created....";
+            output += "\n Database Created....";*/
             return output;
         }
     }

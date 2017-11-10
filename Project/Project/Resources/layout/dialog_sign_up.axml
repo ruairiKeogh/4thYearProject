@@ -16,6 +16,7 @@
         android:layout_marginTop="25dp"
         android:hint="First Name"
         android:paddingLeft="10dp"
+        android:textColor="#000"
         android:textColorHint="#000" />
     <EditText
         android:layout_below="@id/txtFirstName"
@@ -29,6 +30,7 @@
         android:layout_marginRight="20dp"
         android:hint="Email"
         android:paddingLeft="10dp"
+        android:textColor="#000"
         android:textColorHint="#000" />
     <EditText
         android:inputType="textPassword"
@@ -40,6 +42,7 @@
         android:layout_marginRight="20dp"
         android:hint="Password"
         android:paddingLeft="10dp"
+        android:textColor="#000"
         android:textColorHint="#000"
         android:layout_below="@id/txtEmail" />
     <RelativeLayout

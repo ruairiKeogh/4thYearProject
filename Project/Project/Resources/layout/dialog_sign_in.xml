@@ -5,20 +5,21 @@
     android:layout_height="fill_parent"
     android:minWidth="300dp"
     android:minHeight="400dp">
-    
-    <EditText
-        android:inputType="textEmailAddress"
-        android:layout_width="match_parent"
-        android:layout_height="35dp"
-        android:id="@+id/txtEmail"
-        android:background="@drawable/edit_text_style"
-        android:layout_marginBottom="10dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
-        android:layout_marginTop="25dp"
-        android:hint="Email"
-        android:paddingLeft="10dp"
-        android:textColorHint="#000" />
+
+  <EditText
+      android:inputType="textEmailAddress"
+      android:layout_width="match_parent"
+      android:layout_height="35dp"
+      android:id="@+id/txtEmail"
+      android:background="@drawable/edit_text_style"
+      android:layout_marginBottom="10dp"
+      android:layout_marginLeft="20dp"
+      android:layout_marginRight="20dp"
+      android:layout_marginTop="25dp"
+      android:hint="Email"
+      android:paddingLeft="10dp"
+      android:textColor="#000"
+      android:textColorHint="#000" />
     <EditText
         android:inputType="textPassword"
         android:layout_width="match_parent"
@@ -29,6 +30,7 @@
         android:layout_marginRight="20dp"
         android:hint="Password"
         android:paddingLeft="10dp"
+        android:textColor="#000"
         android:textColorHint="#000"
         android:layout_below="@id/txtEmail" />
     <RelativeLayout

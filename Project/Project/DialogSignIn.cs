@@ -54,33 +54,15 @@ namespace Project
             txtPassword = view.FindViewById<EditText>(Resource.Id.txtPassword);
             btnSignIn = view.FindViewById<Button>(Resource.Id.btnDialogEmail);
 
-            btnSignIn.Click += btnSignUp_Click;
+            btnSignIn.Click += btnSignIn_Click;
 
             return view;
         }
 
-        void btnSignUp_Click(object sender, EventArgs e)
+        void btnSignIn_Click(object sender, EventArgs e)
         {
             //User has clicked the sign up button
-            try
-            {
-                string dpPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "user.db3"); //Call Database  
-                var db = new SQLiteConnection(dpPath);
-                var data = db.Table<LoginTable>(); //Call Table  
-                var data1 = data.Where(x => x.email == txtEmail && x.password == txtPassword).FirstOrDefault(); //Linq Query  
-                if (data1 != null)
-                {
-                    Toast.MakeText(this, "Login Success", ToastLength.Short).Show();
-                }
-                else
-                {
-                    Toast.MakeText(this, "Username or Password invalid", ToastLength.Short).Show();
-                }
-            }
-            catch (Exception ex)
-            {
-                Toast.MakeText(this, ex.ToString(), ToastLength.Short).Show();
-            }
+           
         }
 
         public override void OnActivityCreated(Bundle savedInstanceState)
