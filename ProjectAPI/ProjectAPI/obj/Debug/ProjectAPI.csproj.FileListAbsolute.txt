@@ -5,6 +5,7 @@ C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\P
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\Antlr3.Runtime.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\EntityFramework.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\HtmlAgilityPack.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -40,6 +41,8 @@ C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\S
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\System.Web.WebPages.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\System.Web.WebPages.Razor.dll
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\WebGrease.dll
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\HtmlAgilityPack.pdb
+C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\HtmlAgilityPack.xml
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\Newtonsoft.Json.xml
 C:\Users\Owner\Desktop\4thYearProject\4thYearProject\ProjectAPI\ProjectAPI\bin\System.Net.Http.Formatting.xml
